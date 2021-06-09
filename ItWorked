@@ -1,1 +1,2 @@
 combining commands git add and git commit -m "" using && worked
+adding && git push at the end worked as well
