@@ -8,3 +8,4 @@ Send The Parametics
 Charles Bronson
 Sharkpunch
 Dead Boys
+Adrenaline O.D.
